@@ -59,14 +59,6 @@
     font-size: 16px;
 }
 
-.voice {
-    width: 24px;
-    height: 24px;
-    float: right;
-    margin-right: 10px;
-    margin-top: 10px;
-}
-
 svg {
     width: 24px;
     height: 24px;
@@ -76,6 +68,15 @@ svg {
     fill: rgba(95, 99, 104);
 }
 
+
+.voice {
+    width: 24px;
+    height: 24px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
 .search:hover {
     box-shadow: 1px 1px 8px 1px #dcdcdc;
 }
@@ -83,12 +84,6 @@ svg {
 .search:focus-within {
     box-shadow: 1px 1px 8px 1px #dcdcdc;
 }
-
-#apps {
-    float: right;
-}
-
-
 
 button{
     
@@ -107,6 +102,11 @@ button{
         font-family: arial, sans-serif;
     
 }
+
+#apps {
+    float: right;
+}
+
 
 footer {
     margin: 0;
