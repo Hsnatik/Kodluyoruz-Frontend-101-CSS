@@ -5,7 +5,7 @@ Bu depo, en yaygın etiketler ve bunların nasıl kullanılacağı gibi CSS'nin 
 
 **Ödev 1 :**
      - KaktuShop
-      
+     
 ---
 **Ödev 2 :**
      - Google1998
